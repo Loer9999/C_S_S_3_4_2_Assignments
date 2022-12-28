@@ -1,0 +1,1 @@
+It may take a while for the system to kill off Program 2.
